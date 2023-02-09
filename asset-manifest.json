@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GhostBuddies/static/css/main.93755450.css",
+    "main.js": "/GhostBuddies/static/js/main.f3508a9a.js",
+    "static/js/787.d3ad0569.chunk.js": "/GhostBuddies/static/js/787.d3ad0569.chunk.js",
+    "static/media/SEGA.TTF": "/GhostBuddies/static/media/SEGA.8a619f32417a0fe72728.TTF",
+    "index.html": "/GhostBuddies/index.html",
+    "main.93755450.css.map": "/GhostBuddies/static/css/main.93755450.css.map",
+    "main.f3508a9a.js.map": "/GhostBuddies/static/js/main.f3508a9a.js.map",
+    "787.d3ad0569.chunk.js.map": "/GhostBuddies/static/js/787.d3ad0569.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93755450.css",
+    "static/js/main.f3508a9a.js"
+  ]
+}
