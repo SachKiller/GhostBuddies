@@ -1,7 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+//import Card from './Card';
+import App from './Containers/App';
+import { robots } from './Robot';
+import CardList from './Components/CardList';
+import 'tachyons';
+import './Containers/App.css';
+//import Hello from './Hello';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
