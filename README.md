@@ -1,0 +1,2 @@
+# GhostBuddies
+React App Example
